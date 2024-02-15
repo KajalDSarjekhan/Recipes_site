@@ -1,0 +1,19 @@
+.Headersec{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 50px;
+
+}
+ .rights ,h1{
+    margin-left: 100px;
+ }
+
+.lefts img{
+    border-radius: 50%;
+    border-radius: 1;
+    border-color: black;
+    margin-left:400px;
+    margin-top: 20px;
+   
+}

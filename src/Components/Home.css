@@ -1,0 +1,19 @@
+.HomeSec{
+    height:auto;
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    overflow-x: scroll;
+    margin-left: 10px;
+    text-align: center;
+    gap: 10px;
+}
+
+.HomeSec::-webkit-scrollbar{
+    display: none;
+}
+
+.img1{
+    height: 600px;
+    width: 100%;
+}
